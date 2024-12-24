@@ -4,6 +4,10 @@ The repository contains the papers used for the survey and pilot experiements of
 
 The folder `Barbella et al. replication` consists of the code for replicating the methodology of state-of-the-art research in this domain. [Paper](https://www.sciencedirect.com/science/article/pii/S0167865523000132?via%3Dihub).
 
+The file `experiments and analysis` consists of general analysis and insights we obtained from the datasets.
+
+The folder `papers` consists of the research papers that were surveyed in order to understand the overall idealogy behind SOTA research in this field.
+
 The datasets on which the evaluation was conducted are as follows:
 1. Heat Index\
    a. The Heat Vulnerability Index (HVI) dataset shows NYC neighborhoods whose residents are more at risk for dying during and immediately following extreme heat. It uses a statistical model to summarize the most important social and environmental factors that contribute to neighborhood heat risk.\
